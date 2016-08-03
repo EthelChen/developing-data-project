@@ -1,0 +1,9 @@
+This shiny app introduces two simple examples of linear regression: simple linear regression and multiple linear regression.
+The data we use is Boston dataset in the MASS R package.
+On the left, you can choose which type of linear regression you want. 
+Then you can submit the "Update" button to see the "summary" result on the right, which shows the information of the linear regressions.
+For "simple", you are going to see the result of "medv~lstat";
+For "multiple", you are going to see the result of "lstat+age".
+
+The application is at
+http://emily-shiny.shinyapps.io/linear_regression_intro
